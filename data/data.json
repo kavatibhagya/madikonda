@@ -1,0 +1,170 @@
+{
+  "title": "Madikonda",
+  "menus": [
+    {
+      "name": "Contact Us",
+      "link": "#/contactus"
+    },
+    {
+      "name": "News",
+      "link": "#/news",
+      "subMenus": [
+        {
+          "name": "News 1",
+          "link": "#/news1"
+        },
+        {
+          "name": "News 2",
+          "link": "#/news2"
+        }
+      ]
+    },
+    {
+      "name": "Events",
+      "link": "#/events",
+      "subMenus": [
+        {
+          "name": "Event 1",
+          "link": "#/event1"
+        },
+        {
+          "name": "Event 2",
+          "link": "#/event2"
+        },
+        {
+          "name": "Event 3",
+          "link": "#/event3"
+        }
+      ]
+    },
+    {
+      "name": "Industries",
+      "link": "#/industries",
+      "subMenus": []
+    },
+    {
+      "name": "Temples",
+      "link": "#/temples",
+      "subMenus": []
+    },
+    {
+      "name": "Agriculture",
+      "link": "#/agriculture",
+      "subMenus": []
+    },
+    {
+      "name": "Home",
+      "link": "#",
+      "subMenus": []
+    }
+  ],
+  "homePage": {
+    "carousel": {
+      "images": [
+        {
+          "path": "../images/slide1.jpg"
+        },
+        {
+          "path": "../images/slide2.jpg"
+        },
+        {
+          "path": "../images/slide3.jpg"
+        },
+        {
+          "path": "../images/slide4.jpg"
+        }
+      ]
+    },
+    "contentRows": [
+      {
+        "contentId": "LatestUpdates",
+        "numberOfPanels": 3,
+        "welcomeHeader": "Welcome to Madikonda",
+        "subHeader": "Latest Updates",
+        "class": "col-md-4 col-sm-6",
+        "panels": [
+          {
+            "header": null,
+            "imagePath": "../images/update1.jpg",
+            "contentHeader": "Update 1",
+            "class": "col-md-4 col-sm-6",
+            "content": [
+              {
+                "item": "Telangana’s city of Heritage – Warangal – is purely fascinating! With its historical importance, stunning landscapes, natural beauty and man-made wonders, the city is not only culturally rich but also blessed by Mother Nature. If you want a quick getaway from Hyderabad, think not twice! Plan a trip here"
+              }
+            ],
+            "buttonText": "Read More",
+            "footer": null
+          },
+          {
+            "header": null,
+            "imagePath": "../images/update2.jpg",
+            "contentHeader": "Update 2",
+            "class": "col-md-4 col-sm-6",
+            "content": [
+              {
+                "item": "Telangana’s city of Heritage – Warangal – is purely fascinating! With its historical importance, stunning landscapes, natural beauty and man-made wonders, the city is not only culturally rich but also blessed by Mother Nature. If you want a quick getaway from Hyderabad, think not twice! Plan a trip here"
+              }
+            ],
+            "buttonText": "Read More",
+            "footer": null
+          },
+          {
+            "header": null,
+            "imagePath": "../images/update3.jpg",
+            "contentHeader": "Update 3",
+            "class": "col-md-4 col-sm-6",
+            "content": [
+              {
+                "item": "Telangana’s city of Heritage – Warangal – is purely fascinating! With its historical importance, stunning landscapes, natural beauty and man-made wonders, the city is not only culturally rich but also blessed by Mother Nature. If you want a quick getaway from Hyderabad, think not twice! Plan a trip here"
+              }
+            ],
+            "buttonText": "Read More",
+            "footer": null
+          }
+        ]
+      },
+      {
+        "contentId": "ShortAbout",
+        "numberOfPanels": 2,
+        "welcomeHeader": null,
+        "subHeader": "About Madikonda",
+        "panels": [
+          {
+            "header": null,
+            "imagePath": "../images/homehistory.jpg",
+            "contentHeader": null,
+            "content": null,
+            "class": "col-md-6 col-sm-6",
+            "footer": null
+          },
+          {
+            "header": null,
+            "imagePath": null,
+            "contentHeader": null,
+            "class": "col-md-6 col-sm-6",
+            "content": [
+              {
+                "item": "Madikonda is a town area placed in Hanamkonda Block of Warangal district in Telangana. Placed in urban region of Warangal district of Telangana, it is one of the 6 town areas of Hanamkonda Block of Warangal district. As per the government register, the town area number of Madikonda is 8029304. The town area has 4778 houses."
+              },
+              {
+                "item": "According to Census 2011, Madikonda 's population is 19229. Out of this, 9606 are males whereas the females count 9623 here. This town area has 1818 children in the age group of 0-6 years. Out of this 935 are boys and 883 are girls."
+              },
+              {
+                "item": "Literacy rate in Madikonda town area is 66%. 12871 out of total 19229 population is educated here. Among males the literacy ratio is 75% as 7207 males out of total 9606 are educated while female literacy ratio is 58% as 5664 out of total 9623 females are educated in this Town Area. The Negative portion is that illiteracy rate of Madikonda town area is 33%."
+              },
+              {
+                "item": "Here 6358 out of total 19229 people are illiterate. Male illiteracy rate here is 24% as 2399 males out of total 9606 are illiterate. In females the illiteracy rate is 41% and 3959 out of total 9623 females are illiterate in this town area."
+              }
+            ],
+            "footer": null
+          }
+        ]
+      }
+    ]
+  },
+  "agriculture": {
+    "contentRows": []
+  },
+  "footer": "Copyright © Madikonda Village 2017"
+}

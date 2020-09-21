@@ -1,2 +1,3 @@
-# madikonda
-A Website to show the information about my hometown.
+# village
+
+A website to showcase the own village.
